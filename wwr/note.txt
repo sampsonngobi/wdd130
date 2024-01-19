@@ -1,0 +1,28 @@
+Color pallete
+://coolors.co/000000-184930-e08700-ffffff
+
+ 1. Primary 
+color - Black
+Hex Code - #000000
+
+2. Secondary
+Color - Cal poly green
+Hex Code - #184930
+
+3. Accent 1
+Color - Fulvous
+Hex Code - #E08700
+
+4. Accent 2
+Color - white
+Hex Code - #FFFFFF
+
+fonts 
+Rubik
+Light 300
+SemiBold 600
+Roboto
+Light 300
+
+font-family: 'Roboto', sans-serif;
+font-family: 'Rubik', sans-serif;
