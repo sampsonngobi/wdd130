@@ -1,0 +1,31 @@
+header {
+    background-color: blueviolet;
+    padding: 10px;
+    margin: 5px;
+    align-items: center;
+    justify-content: center;
+    display: grid;
+    
+}
+
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+article{
+    margin: 5px;
+    padding: 5px;
+    background-color: aquamarine;
+
+}
+
+.centering {
+    background-color: antiquewhite;
+    width: 200px;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
