@@ -181,13 +181,14 @@ footer{
     display: grid;
     grid-template-columns: 4fr 1fr;
     margin-left: 25rem;
-    background-color: var(--accent1-color);
     max-width: 100%;
+   border: 1rem;
 }
 .sociallinks img{
     /* display: flex;
     justify-content: space-evenly; */
     width: 2rem;
+  
    
 }
     
