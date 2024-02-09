@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&family=Rubik:wght@300;600&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Rubik, sans-serif;
+    background-color: #f2f2f2; 
+}
+
+form {
+    font-family: Roboto, sans-serif;;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: #a1bdec; 
+    border-radius: 8px;
+
+  
+}
+
+h1 {
+    text-align: center;
+    color: #080808;
+    margin-top: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+}
+
+input,
+textarea,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 20px;
+    box-sizing: border-box;
+    border: 1px solid #070707;
+    border-radius: 4px;
+}
+
+textarea {
+    height: 100px;
+}
+
+button {
+    background-color: #060606;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width:  100%;
+}
+
+button:hover {
+    background-color: #1f231f;
+}
+
+p {
+    background: #424842;
+    width: 50%;
+    height: 15px;
+    color: #fff;
+    margin: 10px 0;
+    margin-left: 100px;
+    padding: 15px;
+    text-align: center;
+    border-radius: 5px;
+} 
