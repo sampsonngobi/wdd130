@@ -343,7 +343,13 @@ button:hover{
 figure {
     padding: 10px;
 }
-    
+
+.wireframe{
+    position: absolute;
+    text-decoration: none;
+    left: 950px;
+    color: var(--primary-color);
+}
     
     
 
