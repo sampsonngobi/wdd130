@@ -516,7 +516,7 @@ iframe{
 .tour_info{
     display: grid; 
     gap: 20px;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr  1fr 1fr;
     justify-content: space-around;
     margin-top: 20px;
     margin-inline: auto;
@@ -527,7 +527,7 @@ iframe{
 .tour_content{
     background: var(--accent1-color);
     padding: 10px;
-    width: 250px;
+    max-width: 250px;
     border-radius: 10px;
 }
 
